@@ -1,1 +1,2 @@
 vless://1ac37742-1f9f-4fdb-8b1d-5f3037592c88@vip1.fast8net.online:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless#SankengByFast8FREE
+vless://32faa197-d2e7-4e74-b57e-611d1c64e5c1@hpa.sengtsawm.com:80?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais+Play+5Tb
