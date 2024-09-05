@@ -1,2 +1,1 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMgUExBWS16MTB1bHZ1MyIsCiAgImFkZCI6ICJzdnNnMS52aXAxdjJyYXkub25saW5lIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiOGI0NTE1NWItZDJiZC00ZGFlLTg1MDQtMGRkODkzN2ZiNWYyIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIi8iLAogICJob3N0IjogInNwZWVkdGVzdC5jb20iCn0=
-vless://7ae9c012-e5e0-44f3-a2f5-15685b241ae0@www.opensignal.com:80?path=%2F&security=none&encryption=none&host=www.opensignal.com.v2boxth.online&type=ws#aisFree-%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%B2%E0%B8%A2+30+%E0%B8%A7%E0%B8%B1%E0%B8%99+%F0%9F%9F%A2
+vless://1ac37742-1f9f-4fdb-8b1d-5f3037592c88@vip1.fast8net.online:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless#SankengByFast8FREE
