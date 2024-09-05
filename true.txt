@@ -1,1 +1,2 @@
 vless://1ac37742-1f9f-4fdb-8b1d-5f3037592c88@www.opensignal.com:80?security=none&encryption=none&type=ws&host=www.opensignal.com.Vi1.fast8net.online&path=/vless#SankengByFast8FREE
+vless://7b6ed0a1-7d3a-4aea-b834-ccc13d7b7ce3@hpa.sengtsawm.com:443?path=%2F&security=tls&encryption=none&host=hpa.sengtsawm.com&fp=android&type=ws&sni=fbcdn.net#Esport-True
