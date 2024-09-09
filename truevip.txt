@@ -1,1 +1,1 @@
-vless://411003b0-e994-4dd9-b1cd-6382b5ca652e@xray.vpncs.com:8020?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=facebook.com#test-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5%20%E0%B8%87%E0%B8%94%E0%B8%82%E0%B8%B2%E0%B8%A2%20%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%20http%3A%2F%2Fsankeng.online%2Ffreevpn.php
+vless://c7369c7f-419b-4737-9aa5-8fa161e0bd0e@www.opensignal.com:80?path=%2F&security=none&encryption=none&host=www.opensignal.com.sankeng.online&type=ws#Free+%7C+True+%7C+sankeng+%7C+16%2F%E0%B8%81.%E0%B8%A2.%2F67
