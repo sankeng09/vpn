@@ -1,1 +1,1 @@
-vless://c7369c7f-419b-4737-9aa5-8fa161e0bd0e@www.opensignal.com:80?path=%2F&security=none&encryption=none&host=www.opensignal.com.sankeng.online&type=ws#Free+%7C+True+%7C+sankeng+%7C+12%2F%E0%B8%81.%E0%B8%A2.%2F67
+vless://bc9b6b19-5df1-4b91-bb00-12e454e88a6b@www.opensignal.com:80?path=%2F&security=none&encryption=none&host=www.opensignal.com.sankeng.online&type=ws#FREE+%7C+SK+%7C+TRUE+%7C+3+DAY
